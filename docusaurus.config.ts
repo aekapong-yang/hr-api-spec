@@ -37,7 +37,6 @@ const config: Config = {
   },
   plugins: [
     [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
       {
         indexDocs: true,
         indexBlog: true,
